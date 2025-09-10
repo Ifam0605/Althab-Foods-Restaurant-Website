@@ -35,4 +35,4 @@ https://althab-foods-restaurant-website.netlify.app
 
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/yourusername/althab-foods.git
+   https://github.com/Ifam0605/Althab-Foods-Restaurant-Website.git

@@ -16,8 +16,10 @@ Welcome to **Althab Foods**, a modern and responsive restaurant website designed
 
 ## 🖼️ Preview  
 
-![Restaurant Website Screenshot](food.png)  
+![Restaurant Website Screenshot]![preview img](/preview(02).png) 
 
+## Live Demo
+https://althab-foods-restaurant-website.netlify.app
 ---
 
 ## 🛠️ Technologies Used  

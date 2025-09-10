@@ -1,40 +1,36 @@
-🍴 Althab Foods – Restaurant Website
+# 🍴 Althab Foods – Restaurant Website  
 
-Welcome to Althab Foods, a modern and responsive restaurant website designed to showcase food menus, reservations, and online orders in an elegant way.
+Welcome to **Althab Foods**, a modern and responsive restaurant website designed to showcase food menus, reservations, and online orders in an elegant way.  
 
-✨ Features
+---
 
-🏠 Home Page – Clean and attractive landing page with food highlights
+## ✨ Features  
 
-📋 Menu Section – Browse a variety of dishes with prices and ratings
+- 🏠 **Home Page** – Clean and attractive landing page with food highlights  
+- 📋 **Menu Section** – Browse a variety of dishes with prices and ratings  
+- 📅 **Reservation System** – Easy table booking option  
+- 🛒 **Online Ordering** – Simple ordering system for customer convenience  
+- 📖 **About Us Page** – Share restaurant story and values  
 
-📅 Reservation System – Easy table booking option
+---
 
-🛒 Online Ordering – Simple ordering system for customer convenience
+## 🖼️ Preview  
 
-📖 About Us Page – Share restaurant story and values
+![Restaurant Website Screenshot](food.png)  
 
-🖼️ Preview
+---
 
-🛠️ Technologies Used
+## 🛠️ Technologies Used  
 
-HTML5
+- **HTML5**  
+- **CSS3**  
+- **JavaScript**  
+- **Responsive Design**  
 
-CSS3
+---
 
-JavaScript
+## 🚀 How to Use  
 
-Responsive Design
-
-🚀 How to Use
-
-Clone this repository:
-
-git clone https://github.com/yourusername/althab-foods.git
-
-
-Open index.html in your browser.
-
-📌 Project Purpose
-
-This project is created as a front-end web design practice for restaurant and food delivery websites. It can be customized and extended into a full-stack project.
+1. Clone this repository:  
+   ```bash
+   git clone https://github.com/yourusername/althab-foods.git
